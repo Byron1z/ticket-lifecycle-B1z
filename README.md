@@ -24,26 +24,79 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+<h3>Intake</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  As an End-User, Marianne creates the following ticket: "entire mobile/online banking system is down".
+
+  In this scenario, this ticket will be Critical - could be conidered a "Sev-A".
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/kSw3SIe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/ck5EHbS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+<h3>Ticket Assignment</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  As a Help Desk Agent (Hilda), will observe the ticket’s properties
+  
+Log in as Hilda.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/9wlgydH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/iDYSnGX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Hilda Observes the ticket.
+</p>
+<P>
+  <img src="https://i.imgur.com/6JSIcEO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</P>
+<br />
+<h3>Communication</h3>
+<p>
+  When Observing the ticket, we see there's categories where Agent Hilda could set to this particular ticket such as
+
+  Priority
+  
+  Department
+ 
+Assigned To
+
+SLA Plan
+
+Agent Hilda will Set Properties to the ticket,
+
+Agent Hilda sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
+</p>
+<P>
+  <img src="https://i.imgur.com/32hLwBb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</P>
+<p>
+  Set the Preferred Help Topic
+</p>
+<p>
+  <img src="https://i.imgur.com/NIIXDj5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/64zTj7I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Agent Hilda will send it to the appropriate department "Online Banking" for Troubleshooting, which the Online Banking Department would handle this sort of issue,
+
+  or it could also be sent to the Systems Administrator's Department, but for this lab we'll try to keep it consistent.
+</p>
+<p>
+   <img src="https://i.imgur.com/gvuaMUr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> 
+  For Convenience, Byron, the Supreme Admin, will be part of the Online Banking Department. 
 </p>
 <br />
 
+<h3>Working the Issue</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  Work on the ticket to completion as Byron, the Supreme Admin.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+
