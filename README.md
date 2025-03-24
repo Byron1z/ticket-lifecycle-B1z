@@ -119,10 +119,29 @@ Agent Hilda sees this is Sev-A emergency ticket and has to reassign ticket to a 
 <p>
   <img src="https://i.imgur.com/UKQlUay.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+  Support agent Hilda sees in her portal that Systems Administrator agent Byron has left a message and that the ticket has now been Resolved.
+</p>
 <br />
 
 <h3>Resolution</h3>
 <p>
-  Now Set the Ticket to Resolve
+  Now Set the Ticket to Resolved.
 </p>
+<p>
+  <img src="https://i.imgur.com/xB8b9Yi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/hydA985.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Once Resolved, it shouldn’t appear any more on the portal. 
 
+  To see Resolved and Closed Tickets, you can log into the Admin User and go to Tickets, Closed, choose a certain time when the ticket was Resolved or Closed.
+</p>
+<p>
+  <img src="https://i.imgur.com/uM3Dds0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  This was a very simplistic basic scenario of the creation of a ticket by a user, how the ticket is assigned and displays the communication of a ticket between agents; subsequently resulting in a resolution.
+
+There are additional scenarios that can also happen while a ticket is being assessed. A ticket can either be reassigned to a different department, escalated in severeity level, or needs to be both reassigned to a more qualified agent/department to handle the issue, depending on business impacts.
+</p>
