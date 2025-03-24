@@ -68,7 +68,7 @@ Hilda Observes the ticket.
 
 Agent Hilda will Set Properties to the ticket,
 
-Agent Hilda sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
+Agent Hilda sees this is "Sev-A" emergency ticket and has to reassign ticket to a System Administrator.
 </p>
 <P>
   <img src="https://i.imgur.com/32hLwBb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -102,14 +102,14 @@ Agent Hilda sees this is Sev-A emergency ticket and has to reassign ticket to a 
   <img src="https://i.imgur.com/KJfBQ9X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  Byron will Assign the ticket to himself
+  Byron will Assign the ticket to himself,
 </p>
 <p>
   <img src="https://i.imgur.com/skt0ORG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/8yIbuKX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  Post a Reply to keep agents updated on the ticket's solution
+  Post a Reply to keep agents updated on the ticket's solution,
 </p>
 <p>
   <img src="https://i.imgur.com/r6k4rQr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
