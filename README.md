@@ -97,6 +97,26 @@ Agent Hilda sees this is Sev-A emergency ticket and has to reassign ticket to a 
   Work on the ticket to completion as Byron, the Supreme Admin.
 </p>
 <p>
-  <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/8wCamRd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/KJfBQ9X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Byron will Assign the ticket to himself
+</p>
+<p>
+  <img src="https://i.imgur.com/skt0ORG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/8yIbuKX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Post a Reply to keep agents updated on the ticket's solution
+</p>
+<p>
+  <img src="https://i.imgur.com/r6k4rQr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Now Troubleshoot the Problem with the IT Support Team and respond back to the Agents.
+</p>
+<p>
+  <img src="https://i.imgur.com/UKQlUay.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
