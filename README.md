@@ -18,7 +18,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Ticket Lifecycle Stages</h2>
 
 - Intake
-- Assignment and Communication
+- Ticket Assignment
+- Communication
 - Working the Issue
 - Resolution
 
@@ -57,13 +58,13 @@ Hilda Observes the ticket.
 <p>
   When Observing the ticket, we see there's categories where Agent Hilda could set to this particular ticket such as
 
-  Priority
+  - Priority
   
-  Department
+  - Department
  
-Assigned To
+- Assigned To
 
-SLA Plan
+- SLA Plan
 
 Agent Hilda will Set Properties to the ticket,
 
