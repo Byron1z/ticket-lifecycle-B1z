@@ -119,4 +119,10 @@ Agent Hilda sees this is Sev-A emergency ticket and has to reassign ticket to a 
 <p>
   <img src="https://i.imgur.com/UKQlUay.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+<h3>Resolution</h3>
+<p>
+  Now Set the Ticket to Resolve
+</p>
 
