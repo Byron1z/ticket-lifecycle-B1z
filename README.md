@@ -81,7 +81,7 @@ Agent Hilda sees this is "Sev-A" emergency ticket and has to reassign ticket to 
   <img src="https://i.imgur.com/64zTj7I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  Agent Hilda will send it to the appropriate department "Online Banking" for Troubleshooting, which the Online Banking Department would handle this sort of issue,
+  Agent Hilda will send it to the appropriate department/team "Online Banking" for Troubleshooting, which the Online Banking Department would handle this sort of issue,
 
   or it could also be sent to the Systems Administrator's Department, but for this lab we'll try to keep it consistent.
 </p>
@@ -89,7 +89,7 @@ Agent Hilda sees this is "Sev-A" emergency ticket and has to reassign ticket to 
    <img src="https://i.imgur.com/gvuaMUr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-  For Convenience, Byron, the Supreme Admin, will be part of the Online Banking Department. 
+  For Convenience, Byron, the System Administrator, the Supreme Admin, will also be part of the Online Banking team. 
 </p>
 <br />
 
