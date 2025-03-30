@@ -22,7 +22,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Communication
 - Working the Issue
 - Resolution
-
+<br/>
 <h2>Lifecycle Stages</h2>
 
 <h3>Intake</h3>
