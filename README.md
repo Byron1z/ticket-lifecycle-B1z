@@ -141,8 +141,58 @@ Agent Hilda sees this is "Sev-A" emergency ticket and has to reassign ticket to 
 <p>
   <img src="https://i.imgur.com/uM3Dds0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-  This was a very simplistic basic scenario of the creation of a ticket by a user, how the ticket is assigned and displays the communication of a ticket between agents; subsequently resulting in a resolution.
+<br />
 
-There are additional scenarios that can also happen while a ticket is being assessed. A ticket can either be reassigned to a different department, escalated in severeity level, or needs to be both reassigned to a more qualified agent/department to handle the issue, depending on business impacts.
+<h3>Second Example</h3>
+<p>
+  Here’s a second example of a Ticket. For this Ticket, the end-user will inform the support team that the CFO's laptop is having Computer Problems.
+</p>
+<p>
+  <img src="https://i.imgur.com/tn9AlxM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Again, we will log in as a Support Agent, who will be Hilda.
+</p>
+<p>
+  <img src="https://i.imgur.com/GRbr1q7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Since this Ticket involves a problem with the CFO's (Chief Financial Officer) laptop, we’ll set the Priority to Emergency for this scenario.
+</p>
+<p>
+  <img src="https://i.imgur.com/uNr9THJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  For SLA, we’ll set it to Sev-B since the Ticket description does not indicate it is to be immediately fixed.
+</p>
+<p>
+  <img src="https://i.imgur.com/TSqXmxr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Support Agent Hilda will assign it to herself.
+</p>
+<p>
+  <img src="https://i.imgur.com/fqTFDNL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Next, we will respond to end-user Marianne by email or phone for more clarity on the situation since CFO may not be available. 
+  
+  After we troubleshoot the problem, we will respond to the Ticket.
+</p>
+<p>
+  <img src="https://i.imgur.com/EXPUkGx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Lastly, once we solve the issue, close the Ticket with the Resolved option.
+</p>
+<p>
+  <img src="https://i.imgur.com/31pKo73.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/xDnRNSB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<h3>Conclusion</h3>
+<p>
+  These 2 examples were very simplistic, basic scenarios of the creation of a tickets by an end-user, shows how the ticket is assigned and displaying the communication of a ticket between agents; subsequently resulting in a resolution.
+
+Additional scenarios can also occur while a ticket is being assessed. Depending on the business impacts, a ticket can either be reassigned to a different department, escalated in Severity Level, or both reassigned to a more qualified Agent/Department to troubleshoot the issue.
 </p>
