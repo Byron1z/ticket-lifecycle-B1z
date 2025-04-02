@@ -192,7 +192,7 @@ Agent Hilda sees this is "Sev-A" emergency ticket and has to reassign ticket to 
 <br />
 <h3>Conclusion</h3>
 <p>
-  These 2 examples were very simplistic, basic scenarios of the creation of a tickets by an end-user, shows how the ticket is assigned and displaying the communication of a ticket between agents; subsequently resulting in a resolution.
+  These 2 examples were very simplistic, basic scenarios of the creation of tickets by end-users, employees, etc., showing how the ticket is assigned and displaying the communication of a ticket between agents; subsequently resulting in a resolution.
 
 Additional scenarios can also occur while a ticket is being assessed. Depending on the business impacts, a ticket can either be reassigned to a different department, escalated in Severity Level, or both reassigned to a more qualified Agent/Department to troubleshoot the issue.
 </p>
