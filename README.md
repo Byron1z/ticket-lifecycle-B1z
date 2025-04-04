@@ -68,11 +68,19 @@ Hilda Observes the ticket.
 
 Agent Hilda will Set Properties to the ticket,
 
-Agent Hilda sees this is "Sev-A" emergency ticket and has to reassign ticket to a System Administrator.
+Agent Hilda sees this is "Sev-A" emergency ticket and has to reassign the ticket to a System Administrator.
 </p>
 <P>
   <img src="https://i.imgur.com/32hLwBb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </P>
+<p>
+  Edit: You should also set the Priority Level of the ticket. The Priority should be set to "Emergency" since we are dealing with an issue that can effect an entire portion of the business.
+
+  In this lab, I forgot to show this; Here's an example of what it would look like.
+</p>
+<p>
+  <img src="https://i.imgur.com/IMmA2fi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <p>
   Set the Preferred Help Topic
 </p>
@@ -89,7 +97,7 @@ Agent Hilda sees this is "Sev-A" emergency ticket and has to reassign ticket to 
    <img src="https://i.imgur.com/gvuaMUr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-  For Convenience, Byron, the System Administrator, the Supreme Admin, will also be part of the Online Banking team. 
+  For convenience, Byron, the system administrator and the suprem admin, will also be a member of the online banking team. 
 </p>
 <br />
 
@@ -157,13 +165,13 @@ Agent Hilda sees this is "Sev-A" emergency ticket and has to reassign ticket to 
   <img src="https://i.imgur.com/GRbr1q7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  Since this Ticket involves a problem with the CFO's (Chief Financial Officer) laptop, we’ll set the Priority to Emergency for this scenario.
+  Since this Ticket involves a problem with the CFO's (Chief Financial Officer) laptop, we’ll set the Priority to "Emergency" for this scenario.
 </p>
 <p>
   <img src="https://i.imgur.com/uNr9THJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  For SLA, we’ll set it to Sev-B since the Ticket description does not indicate it is to be immediately fixed.
+  For SLA, we’ll set it to "Sev-B" since the Ticket description does not indicate it is to be immediately fixed.
 </p>
 <p>
   <img src="https://i.imgur.com/TSqXmxr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
