@@ -29,29 +29,29 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
   As an End-User, Marianne creates the following ticket: "entire mobile/online banking system is down".
 
-  In this scenario, this ticket will be Critical - could be conidered a "Sev-A".
+  In this scenario, this ticket will be Critical - could be considered a "Sev-A".
 </p>
 <p>
 <img src="https://i.imgur.com/kSw3SIe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/ck5EHbS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/ck5EHbS.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <h3>Ticket Assignment</h3>
 <p>
-  As a Help Desk Agent (Hilda), will observe the ticket’s properties
+  As a Help Desk Agent (Hilda), she will observe the ticket’s properties
   
-Log in as Hilda.
+  Log in as Hilda.
 </p>
 <p>
-<img src="https://i.imgur.com/9wlgydH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/iDYSnGX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/9wlgydH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/iDYSnGX.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Hilda Observes the ticket.
 </p>
 <P>
-  <img src="https://i.imgur.com/6JSIcEO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/6JSIcEO.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </P>
 <br />
 <h3>Communication</h3>
