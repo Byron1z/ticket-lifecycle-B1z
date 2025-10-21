@@ -11,9 +11,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>💻 Operating Systems Used</h2>
 
-- Windows 10 Pro</b> (22H2)
+- **Windows 10 Pro</b> (22H2)**
 
 <h2>Ticket Lifecycle Stages</h2>
 
